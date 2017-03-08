@@ -1,5 +1,0 @@
-{
-    "resource": "service-nodejs",
-    "enabled": true,
-    "bearerOnly": true
-}
